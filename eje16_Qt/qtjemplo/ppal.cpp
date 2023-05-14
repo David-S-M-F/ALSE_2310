@@ -17,16 +17,9 @@ PPal::~PPal()
     delete ui;
 }
 
-
-void PPal::on_btn_Hola_clicked()
+void PPal::on_btn_Operar_clicked()
 {
-   MatrixXd mA(2,2), mB(2,2), mC(2,2);
-   mA(0,0) =  ui->txt_A11->text().toDouble();
-}
-
-
-void PPal::on_pushButton_clicked()
-{
-
+    MatrixXd mA(2,2), mB(2,2), mC(2,2);
+    mA(0,0) =  ui->txt_A11->text().toDouble();
 }
 

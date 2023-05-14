@@ -16,9 +16,7 @@ public:
     ~PPal();
 
 private slots:
-    void on_btn_Hola_clicked();
-
-    void on_pushButton_clicked();
+    void on_btn_Operar_clicked();
 
 private:
     Ui::PPal *ui;
