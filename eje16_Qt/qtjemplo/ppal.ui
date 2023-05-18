@@ -147,7 +147,7 @@
          </widget>
         </item>
         <item>
-         <widget class="QComboBox" name="comboBox">
+         <widget class="QComboBox" name="cbo_Operacion">
           <item>
            <property name="text">
             <string>+</string>
@@ -229,7 +229,7 @@
              <item>
               <layout class="QHBoxLayout" name="horizontalLayout_4">
                <item>
-                <widget class="QLineEdit" name="txt_Hola_7">
+                <widget class="QLineEdit" name="txt_B21">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -251,7 +251,7 @@
                 </widget>
                </item>
                <item>
-                <widget class="QLineEdit" name="txt_Hola_8">
+                <widget class="QLineEdit" name="txt_B22">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -301,7 +301,7 @@
              <item>
               <layout class="QHBoxLayout" name="horizontalLayout_6">
                <item>
-                <widget class="QLineEdit" name="txt_Hola_9">
+                <widget class="QLineEdit" name="txt_C11">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -323,7 +323,7 @@
                 </widget>
                </item>
                <item>
-                <widget class="QLineEdit" name="txt_Hola_10">
+                <widget class="QLineEdit" name="txt_C12">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -349,7 +349,7 @@
              <item>
               <layout class="QHBoxLayout" name="horizontalLayout_7">
                <item>
-                <widget class="QLineEdit" name="txt_Hola_11">
+                <widget class="QLineEdit" name="txt_C21">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>
@@ -371,7 +371,7 @@
                 </widget>
                </item>
                <item>
-                <widget class="QLineEdit" name="txt_Hola_12">
+                <widget class="QLineEdit" name="txt_C22">
                  <property name="sizePolicy">
                   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                    <horstretch>0</horstretch>

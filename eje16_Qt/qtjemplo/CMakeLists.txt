@@ -20,6 +20,9 @@ set(PROJECT_SOURCES
         ppal.cpp
         ppal.h
         ppal.ui
+        dividiag.h
+        dividiag.cpp
+        dividiag.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

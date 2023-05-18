@@ -15,6 +15,9 @@ public:
     PPal(QWidget *parent = nullptr);
     ~PPal();
 
+public slots:
+    void tipoDivi(int tipo, double esc);
+
 private slots:
     void on_btn_Operar_clicked();
 
